@@ -1,0 +1,29 @@
+name: Suggest a Guide
+description: Propose a new guide topic for the collection
+title: "[Guide] "
+labels: ["new-guide", "enhancement"]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Guide Topic
+      description: What should this guide cover?
+      placeholder: e.g., "Best gyms and fitness options in Istanbul"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What information should be included? Why would this help nomads?
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or References
+      description: Any links, personal experience, or resources that could help write this guide?
+    validations:
+      required: false

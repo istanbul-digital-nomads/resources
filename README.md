@@ -1,3 +1,6 @@
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey)
+![Guides](https://img.shields.io/badge/Guides-10-green)
+
 # Istanbul Digital Nomad Resources
 
 A curated collection of practical guides for living and working remotely in Istanbul. Everything here is based on real experience from community members.
@@ -24,3 +27,11 @@ These guides are only as good as the community keeps them. If you notice outdate
 ## Disclaimer
 
 Information in these guides reflects community members' personal experiences and may change over time. Always verify important details (especially visa rules and legal requirements) with official sources.
+
+---
+
+## Related Repos
+
+- [Community](https://github.com/istanbul-digital-nomads/community) — Guidelines and code of conduct
+- [Events](https://github.com/istanbul-digital-nomads/events) — Meetup planning and event templates
+- [Website](https://github.com/istanbul-digital-nomads/website) — Community platform
