@@ -5,11 +5,11 @@
 Istanbul has excellent private hospitals with English-speaking staff. Quality is on par with Western Europe at a fraction of the cost.
 
 ### Top Private Hospitals
-- **Acibadem** — Multiple locations, excellent reputation, most doctors speak English
-- **Memorial** — Modern facilities, popular with expats
-- **Liv Hospital** — Part of the Memorial group, high-tech facilities
-- **American Hospital** — Long-established, strong international patient services
-- **Florence Nightingale** — Good all-around care
+- **Acibadem** - Multiple locations, excellent reputation, most doctors speak English
+- **Memorial** - Modern facilities, popular with expats
+- **Liv Hospital** - Part of the Memorial group, high-tech facilities
+- **American Hospital** - Long-established, strong international patient services
+- **Florence Nightingale** - Good all-around care
 
 ### Public Hospitals
 Free or very cheap for those with Turkish health insurance (SGK). Quality varies. Wait times can be long. English-speaking staff is less common.

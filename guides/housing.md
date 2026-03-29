@@ -2,11 +2,11 @@
 
 ## Where to Look
 
-- **Sahibinden.com** — The main Turkish property platform. Huge selection, mostly in Turkish. Use Google Translate.
-- **Hepsiemlak.com** — Another popular Turkish platform.
-- **Facebook groups** — Search for "Istanbul apartments for rent" or "expats in Istanbul housing."
-- **Airbnb** — Good for your first month while you look for a long-term place.
-- **Community referrals** — Ask in our Telegram group. Members often know about available places.
+- **Sahibinden.com** - The main Turkish property platform. Huge selection, mostly in Turkish. Use Google Translate.
+- **Hepsiemlak.com** - Another popular Turkish platform.
+- **Facebook groups** - Search for "Istanbul apartments for rent" or "expats in Istanbul housing."
+- **Airbnb** - Good for your first month while you look for a long-term place.
+- **Community referrals** - Ask in our Telegram group. Members often know about available places.
 
 ## What to Expect
 

@@ -32,6 +32,6 @@ Information in these guides reflects community members' personal experiences and
 
 ## Related Repos
 
-- [Community](https://github.com/istanbul-digital-nomads/community) — Guidelines and code of conduct
-- [Events](https://github.com/istanbul-digital-nomads/events) — Meetup planning and event templates
-- [Website](https://github.com/istanbul-digital-nomads/website) — Community platform
+- [Community](https://github.com/istanbul-digital-nomads/community) - Guidelines and code of conduct
+- [Events](https://github.com/istanbul-digital-nomads/events) - Meetup planning and event templates
+- [Website](https://github.com/istanbul-digital-nomads/website) - Community platform

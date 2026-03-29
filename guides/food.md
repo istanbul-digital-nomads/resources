@@ -16,9 +16,9 @@ Istanbul is a food paradise. You can eat incredibly well at every budget level.
 - **Meyhane** (Turkish tavern): Great for a social dinner with meze and raki, 400 to 800 TL per person.
 
 ### Food Delivery Apps
-- **Yemeksepeti** — The biggest food delivery app in Turkey
-- **Getir Yemek** — Fast delivery, good restaurant selection
-- **Trendyol Yemek** — Growing platform with good deals
+- **Yemeksepeti** - The biggest food delivery app in Turkey
+- **Getir Yemek** - Fast delivery, good restaurant selection
+- **Trendyol Yemek** - Growing platform with good deals
 
 ## Groceries
 
